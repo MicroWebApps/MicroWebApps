@@ -47,12 +47,11 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * `html` litteral string : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/web-js-utils.js#L29
 * example svg with variables : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/svg_utils.js#L12
 
-# Dom efficiency
-https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
-
-# Questions
+# Q&A
 * What is the dom update efficiency
-* why don't browsers implement v-dom natively and use it to improve efficiency
+ * some tricks like templates and batching help https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
+* why don't browsers implement v-dom natively and use it to improve efficiency ?
+ * they're actually doing it https://stackoverflow.com/questions/42622666/why-cant-browsers-use-a-virtual-dom-internally-as-an-optimisation
 * How does solid update the DOM based on states changes ?
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
