@@ -26,7 +26,6 @@ https://www.solidjs.com/
 https://astro.build/
 * still not stable, does not handle React components properly
 
- [] test ASTRO with Solid
 
 ![frameworks](./frameworks%20and%20dom.svg)
 # Using JSX without React
@@ -50,3 +49,13 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * How does solid update the DOM based on states changes ?
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
+* What is a good framework to use Solid with ?
+* will nextjs support Solid ?
+* Is Puppeteer a proper way to generate native web components from jsx ?
+
+# TODOs
+* test ASTRO with Solid
+* resolve Nextjs dependencies e.g. next.router
+* understand Nextjs added value e.g. routing, serving pages, SSG,... what else ?
+* Find a Nextjs replacement that works with Solid.js (Express, Nest, ASTRO)
+* Find a library that creates web components that can run without javascript (native DOM components)
