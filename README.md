@@ -59,8 +59,10 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
   * Solid Signals are getters and setters, not like react render all and let vdomdo the diff https://dev.to/alexmercedcoder/solidjs-react-meets-svelte-4fmm
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
+* How to create a ready component from jsx ?
   * react server side components https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
   * react in a web component https://reactjs.org/docs/web-components.html#using-react-in-your-web-components
+  * suport in nextjs react 18 https://nextjs.org/docs/advanced-features/react-18/server-components
 * What is a good framework to use Solid with ?
 * will nextjs support Solid ?
 * Is Puppeteer a proper way to generate native web components from jsx ?
