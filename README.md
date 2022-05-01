@@ -23,7 +23,8 @@ Main repo to host design and discussions
 https://www.solidjs.com/
 * not a framework, just a library
 * has signals (states)
-* not compiling like svelte, yet no vdom
+* compiling like svelte, or not ?
+  * https://dev.to/alexmercedcoder/solidjs-react-meets-svelte-4fmm
 ### Astro build
 https://astro.build/
 * still not stable, does not handle React components properly
