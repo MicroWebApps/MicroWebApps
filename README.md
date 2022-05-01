@@ -47,6 +47,9 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * `html` litteral string : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/web-js-utils.js#L29
 * example svg with variables : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/svg_utils.js#L12
 
+# Dom efficiency
+https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
+
 # Questions
 * What is the dom update efficiency
 * why don't browsers implement v-dom natively and use it to improve efficiency
