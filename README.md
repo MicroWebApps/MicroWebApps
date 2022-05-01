@@ -12,6 +12,7 @@ Main repo to host design and discussions
 * Concatenate components easily e.g. JSX
 * native js events
 * no framework black magic events or bindings
+* spend cpu once on build time rather than milliin times on every client
 ## Statements
 * JSX is an approach that can scale complexity hierarchically by concatenating html, css and js from a single abstraction call
 * abstracting DOM manipulations from the developper can result in poor performance (https://svelte.dev/blog/virtual-dom-is-pure-overhead)
@@ -22,6 +23,7 @@ Main repo to host design and discussions
 https://www.solidjs.com/
 * not a framework, just a library
 * has signals (states)
+* not compiling like svelte, yet no vdom
 ### Astro build
 https://astro.build/
 * still not stable, does not handle React components properly
