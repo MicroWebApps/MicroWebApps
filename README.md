@@ -40,8 +40,8 @@ https://github.com/achou11/no-virtual-dom
 * V-DOM can be a good rescue for messed up applications that have no proper DOM manipulation logic
 * V-DOM is a practical SPA approach for those who do not care about bloating performance, or if application is not too complex
 * V-DOM i not good for scaling the web with Micro services approaches (Micro-Front Ends)
-
-
+## alternative
+* Reactive fine-grained change propagation
 ## using html litteral strings
 Easy and practicle for systematic full render scenario e.g. SVG voronoi generator
 * `html` litteral string : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/web-js-utils.js#L29
