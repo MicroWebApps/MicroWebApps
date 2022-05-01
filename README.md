@@ -52,6 +52,8 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
   * some tricks like templates and batching help https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
 * why don't browsers implement v-dom natively and use it to improve efficiency ?
   * they're actually doing it https://stackoverflow.com/questions/42622666/why-cant-browsers-use-a-virtual-dom-internally-as-an-optimisation
+* how does solid compare to svelte
+  * https://ryansolid.medium.com/javascript-ui-compilers-comparing-svelte-and-solid-cbcba2120cea
 * How does solid update the DOM based on states changes ?
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
