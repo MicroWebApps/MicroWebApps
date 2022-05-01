@@ -9,7 +9,7 @@ Main repo to host design and discussions
 * optioanl components states and liefcycle management
 * No TS TSX or optional at least
 * generate html,css, js from JSX
-* Concatenate components easily e.g. JSX
+* Concatenate components easily e.g. JSX (easier than .custom template that supports no infile partials)
 * native js events
 * no framework black magic events or bindings (but how to bind data then? optionally e.g. getelwithid)
 * spend cpu once on build time rather than milliin times on every client
