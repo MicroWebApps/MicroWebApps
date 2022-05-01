@@ -56,7 +56,7 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * how does solid compare to svelte
   * https://ryansolid.medium.com/javascript-ui-compilers-comparing-svelte-and-solid-cbcba2120cea
 * How does solid update the DOM based on states changes ?
-  * Solid Signals are getters and setters, not like react render all and let vdomdo the diff
+  * Solid Signals are getters and setters, not like react render all and let vdomdo the diff https://dev.to/alexmercedcoder/solidjs-react-meets-svelte-4fmm
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
 * What is a good framework to use Solid with ?
