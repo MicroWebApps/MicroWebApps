@@ -49,16 +49,16 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 
 # Q&A
 * What is the dom update efficiency
- * some tricks like templates and batching help https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
+  * some tricks like templates and batching help https://gist.github.com/faressoft/36cdd64faae21ed22948b458e6bf04d5#file-dom_performance_reflow_repaint-md
 * why don't browsers implement v-dom natively and use it to improve efficiency ?
- * they're actually doing it https://stackoverflow.com/questions/42622666/why-cant-browsers-use-a-virtual-dom-internally-as-an-optimisation
+  * they're actually doing it https://stackoverflow.com/questions/42622666/why-cant-browsers-use-a-virtual-dom-internally-as-an-optimisation
 * How does solid update the DOM based on states changes ?
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
 * What is a good framework to use Solid with ?
 * will nextjs support Solid ?
 * Is Puppeteer a proper way to generate native web components from jsx ?
-
+  * svelte can create spa out of the box
 # TODOs
 * test ASTRO with Solid
 * resolve Nextjs dependencies e.g. next.router
