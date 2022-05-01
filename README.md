@@ -3,7 +3,7 @@ Main repo to host design and discussions
 
 # Wishes for the future of Web
 * No V-DOM lockin
-* No transpilers or isolated components transpilation
+* No transpilers or less transpilers and used in isolation
 * Native DOM components with optional js
 * no `.custom` format
 * optioanl components states and liefcycle management
@@ -11,7 +11,7 @@ Main repo to host design and discussions
 * generate html,css, js from JSX
 * Concatenate components easily e.g. JSX
 * native js events
-* no framework black magic events or bindings
+* no framework black magic events or bindings (but how to bind data then? optionally e.g. getelwithid)
 * spend cpu once on build time rather than milliin times on every client
 ## Statements
 * JSX is an approach that can scale complexity hierarchically by concatenating html, css and js from a single abstraction call
@@ -28,7 +28,7 @@ https://www.solidjs.com/
 https://astro.build/
 * still not stable, does not handle React components properly
 
-
+# Frameworks dom and jsx
 ![frameworks](./frameworks%20and%20dom.svg)
 # Using JSX without React
 https://dev.to/kartiknair/using-jsx-without-react-28eb
@@ -48,6 +48,8 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * example svg with variables : https://github.com/WebSVG/voronoi/blob/608c5757c446a29c8925baccf4b36e016aa7bd51/src/svg_utils.js#L12
 
 # Questions
+* What is the dom update efficiency
+* why don't browsers implement v-dom natively and use it to improve efficiency
 * How does solid update the DOM based on states changes ?
 * How does solid updates components visibility, with css or by inject-remove ?
 * Is it possible to create an html css component out of Solid ?
