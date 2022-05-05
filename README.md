@@ -67,6 +67,9 @@ Easy and practicle for systematic full render scenario e.g. SVG voronoi generato
 * will nextjs support Solid ?
 * Is Puppeteer a proper way to generate native web components from jsx ?
   * svelte can create spa out of the box
+* doas a multipages spa need a vdom ?
+* can pwa have instant pages transitions ?
+* pwa vs spa
 # TODOs
 * test ASTRO with Solid
 * resolve Nextjs dependencies e.g. next.router
