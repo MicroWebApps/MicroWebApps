@@ -2,7 +2,9 @@
 Main repo to host design and discussions
 
 https://github.com/orgs/MicroWebStacks/discussions/2
+
 https://github.com/orgs/MicroWebStacks/discussions/3
+
 https://github.com/orgs/MicroWebStacks/discussions/4
 
 ## Statements
@@ -24,6 +26,7 @@ https://astro.build/
 ![frameworks](./frameworks%20and%20dom.svg)
 # Using JSX without React
 https://dev.to/kartiknair/using-jsx-without-react-28eb
+
 https://adostes.medium.com/you-dont-need-react-to-use-jsx-b78dd2a95c27
 
 ## alternative
