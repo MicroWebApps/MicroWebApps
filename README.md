@@ -22,6 +22,9 @@ https://www.solidjs.com/
 https://astro.build/
 * still not stable, does not handle React components properly
 
+### Fresh
+https://deno.com/blog/fresh-is-stable
+
 # Frameworks dom and jsx
 ![frameworks](./frameworks%20and%20dom.svg)
 # Using JSX without React
